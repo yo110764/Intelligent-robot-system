@@ -463,8 +463,4 @@ Robot arm controller and laser marking machine controller are from Syntec, a tec
 
 -	with vibration sensor subsystem
 
-Because the vibration sensor can only connect to computer, we need an Arduino chip to connect computer and robot arm controller. When the sensor detect improper external force, the operation of robot arm and laser marking machine will be stopped immediately to avoid danger.
-
-     
-# Highlights
->>>>>>> https://github.com/yo110764/Intelligent-robot-system.git
+Because the vibration sensor can only connect to computer, we need an Arduino chip to connect computer and robot arm controller. When the sensor detect improper external force, the operation of robot arm and laser marking machine will be stopped immediately to avoid danger. 
